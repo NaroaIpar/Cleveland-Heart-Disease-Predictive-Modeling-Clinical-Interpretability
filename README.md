@@ -1,0 +1,2 @@
+# Cleveland-Heart-Disease-Predictive-Modeling-Clinical-Interpretability
+Engineered a transparent diagnostic framework achieving 90% accuracy using L1-Regularized Logistic Regression, statistically matching complex ensembles while maximizing clinical trust. The solution integrates Explainable AI tools to transform raw predictions into granular risk analyses and actionable, patient-specific counterfactuals
